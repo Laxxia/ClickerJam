@@ -11,10 +11,8 @@ instantiate = function(_particle_count){
 	particle_count = _particle_count;
 	for (var i = 0; i < particle_count; i++){
 		particle_list[| i] = {
-		    x: x + random_range(-10,10),
-		    y: y + random_range(-10,10),
-		    alpha: 1,
-		    fade_speed: random_range(0.015, 0.025), 
+		    x: x + random_range(-125,125),
+		    y: y + random_range(-25,25),
 		    hsp: random_range(-4, 4),
 		    vsp: random_range(-5, -1),
 		    grav: random_range(0.15, 0.35),

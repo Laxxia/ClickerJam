@@ -1,13 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-maxBlood = 1000;
+maxBlood = 10000;
 curBlood = 0;
 curHeight = 0;
-maxHeight = 576
+maxHeight = 800//576
 
 
 spawnBlood = function(bloodCount){
-	var inst = instance_create_layer(mouse_x, mouse_y, "Instances", oBloodSpawner);
+	var inst = instance_create_layer(x + 384/2, y - maxHeight - 30, "Instances", oBloodSpawner);
 	inst.instantiate(bloodCount);
 }
 

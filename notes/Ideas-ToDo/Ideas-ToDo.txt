@@ -1,0 +1,20 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~
+TODO
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Make two buttons to swap states of what its actually incrementing
+
+Make it automatic with an alarm somehow
+
+Start adding in upgrades
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+IDEAS
+~~~~~~~~~~~~~~~~~~~~~~~~~
+make it so you can always be clicking, 
+but by allocating people to it it will 
+slowly happen over time, but starts EXTREMELY slow?
+
+Make it so you can spend blood for special upgrades or something?
+Make it so at certain blood breakpoints somehting happens perhaps?
+

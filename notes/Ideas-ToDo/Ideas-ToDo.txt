@@ -1,12 +1,16 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 TODO
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Make two buttons to swap states of what its actually incrementing
-
-Make it automatic with an alarm somehow
 
 Start adding in upgrades
 
+Fix the automation for individual speeds
+
+Add hoverover addon for some lore/flavor shit
+
+Get the rest of the categories made
+
+add the cost requirements nad shit to start unlocking things. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 IDEAS
@@ -17,4 +21,6 @@ slowly happen over time, but starts EXTREMELY slow?
 
 Make it so you can spend blood for special upgrades or something?
 Make it so at certain blood breakpoints somehting happens perhaps?
+
+perhaps event popups? 
 

@@ -1,7 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+#macro curBlood oClickerManager.resources[resource.blood]
+
 maxBlood = 10000;
-curBlood = 0;
 curHeight = 0;
 maxHeight = 800//576
 

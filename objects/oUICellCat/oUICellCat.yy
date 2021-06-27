@@ -31,6 +31,8 @@
         "selectedCategory.makeMoney",
         "selectedCategory.doResearch",
         "selectedCategory.recruitFollowers",
+        "selectedCategory.lowerSuspicion",
+        "selectedCategory.sacrifice",
         "undefined",
       ],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"selectedCat","tags":[],"resourceType":"GMObjectProperty",},
   ],

@@ -15,6 +15,10 @@ if(mouse_check_button_pressed(mb_left)){
 		if(hoverCell.btnType == buttonType.category){
 			oClickerManager.changeCat(hoverCell.selectedCat);
 		}
+		
+		if(hoverCell.btnType == buttonType.upgrade){
+			hoverCell.onClick();
+		}
 	}
 }
 

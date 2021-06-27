@@ -4,19 +4,10 @@
 // Inherit the parent event
 event_inherited();
 var text = "";
-switch(selectedCat){
-	case selectedCategory.makeMoney:
-		text = "Munee";
-		break;
-	case selectedCategory.doResearch:
-		text = "Research";
-		break;
-	case selectedCategory.recruitFollowers:
-		text = "Recruit";
-		break;
-	case undefined:
-		text = "error";
-		break;
+if(selectedCat != undefined){
+	text = oClickerManager.categories[selectedCat].title;
+} else {
+	text = "error";
 }
 
-draw_text(x + sprite_width/2, y + 20, text);
+draw_text(x + sprite_width/2 - 45, y + 20, text);

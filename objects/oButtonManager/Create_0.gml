@@ -9,9 +9,11 @@ upgradeGroup = new cellGroup(oUICellUpgrade);
 categoryGroup = new cellGroup(oUICellCat);
 
 enum selectedCategory{
-	makeMoney = 0,
-	doResearch  = 1,
-	recruitFollowers = 2
+	doResearch  = 0,
+	makeMoney = 1,
+	recruitFollowers = 2,
+	lowerSuspicion = 3,
+	sacrifice = 4
 }
 
 enum buttonType{

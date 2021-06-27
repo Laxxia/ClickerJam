@@ -2,25 +2,18 @@
 TODO
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Start adding in upgrades
-
 Fix the automation for individual speeds
 
 Add hoverover addon for some lore/flavor shit
-
-Get the rest of the categories made
 
 add the cost requirements nad shit to start unlocking things. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 IDEAS
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-make it so you can always be clicking, 
-but by allocating people to it it will 
-slowly happen over time, but starts EXTREMELY slow?
-
 Make it so you can spend blood for special upgrades or something?
 Make it so at certain blood breakpoints somehting happens perhaps?
 
 perhaps event popups? 
+
 

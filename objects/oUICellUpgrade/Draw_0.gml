@@ -3,4 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
-draw_text(x, y, orderIndex); 
+if(oUpgradeManager.upgradeGroups[oClickerManager.curCat][orderIndex] != -1){
+	draw_text(x, y + 15, curUpgrade.title); 
+}
+	draw_text(x, y, orderIndex);
